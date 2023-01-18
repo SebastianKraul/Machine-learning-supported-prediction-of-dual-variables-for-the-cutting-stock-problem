@@ -13,4 +13,6 @@ All instances were generated with the instance generator of Gau & Waescher (1995
 
 "TrainingInstances_1_49999.zip" and "TrainingInstances_50000_100000.zip" include the instances used to train and test the different learning algorithms. These instances are also used in Section 4.1 to analyze the characteristics of the CSP data. Each instance is described in a txt-file. The format is as follows: Each row consists of two columns. The first row gives information about the number of items (m) and the size of the stock (L).The following rows describe the size (l_i) and the demand (d_i) of each item i.
 
+"sketch_learning_algorithm_FULL.ipynb" is a Jupyter notebook giving a brief sketch of the learning algorithm FULL. 
+
 Gau T, Waescher G (1995) CUTGEN1: A problem generator for the standard one-dimensional cutting stock problem. European Journal of Operational Research 84(3):572-579, ISSN 03772217, URL http://dx.doi.org/10.1016/0377-2217(95)00023-J.
