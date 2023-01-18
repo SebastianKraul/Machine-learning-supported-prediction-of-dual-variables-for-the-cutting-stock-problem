@@ -3,7 +3,7 @@ Problem data of our paper "Machine learning supported prediction of dual variabl
 
 All instances were generated with the instance generator of Gau & Waescher (1995). The specifications are given in our paper.
 
-"Predictions.xlsx" gives information about the predicted dual variables of the TestInstances (see TestInstances.zip). The file consists of two worksheets. One for the predictions of the learning algorithm FULL and one for SPARSE.
+"Prediction_Testinstances.xlsx" gives information about the predicted dual variables of the TestInstances (see TestInstances.zip). The file consists of two worksheets. One for the predictions of the learning algorithm FULL and one for SPARSE.
 
 "Predictions_BPPLIB.zip" includes the predictions for the BPPLIB instances. For each group of instances, there is a seperate xlsx-file for the predictions of FULL and SPARSE. Note that for some groups no prediction of FULL exist since they do not include instances <= 100 items.
 
